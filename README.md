@@ -1,7 +1,8 @@
 # VR_Game_MEP
-Simple VR Prototype Game
+Simple VR Prototype Game - "4 Light"
 
-Developement Platform: Unity 2019.1.14f1
+# Developement Platform
+Unity 2019.1.14f1
 Operating System: Windows
 IDE: Visual Studio
 Target Platform: Windows - Oculus Rift

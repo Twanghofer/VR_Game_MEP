@@ -52,4 +52,4 @@ o Unity Projekt erstellen & pushen
 
 # Skizze
 
-![4Light_Raumskizze](https://github.com/Twanghofer/MEP_Project1/blob/master/img/4Light_Raumskizze.png)
+![4Light_Raumskizze](https://github.com/Twanghofer/VR_Game_MEP/tree/master/img/4Light_Raumskizze.png)

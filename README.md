@@ -48,3 +48,8 @@ Done:
 o Git Repository erstellen 
 
 o Unity Projekt erstellen & pushen 
+
+
+# Skizze
+
+![Skizze](https://github.com/Twanghofer/MEP_Project1/blob/master/img/4Light_Raumskizze.png)

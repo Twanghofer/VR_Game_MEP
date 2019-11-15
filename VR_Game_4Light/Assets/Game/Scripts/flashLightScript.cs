@@ -11,20 +11,41 @@ public class flashLightScript : MonoBehaviour
     public TextMeshProUGUI hiddenObject1;
     public Image hiddenObject2;
 
-    void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter(Collider trigger)
     {
-        if (collision.collider.tag == "showToggleObject1")
+        Debug.Log("Collision enter");
+
+        /*if (trigger.tag == "showToggleObject1")
         {
-            hiddenObject1.enabled = false;
+            hiddenObject1.enabled = true;
             Debug.Log("Object 1 is targetted");
         }
 
-        if (collision.collider.tag == "showToggleObject2")
+        if (trigger.tag == "showToggleObject2")
         {
-            hiddenObject2.enabled = false;
+            hiddenObject2.enabled = true;
             Debug.Log("Object 2 is targetted");
         }
     }
 
+    private void OnTriggerExit(Collider trigger)
+    {
+        Debug.Log("Collision enter");
+
+        if (trigger.tag == "showToggleObject1")
+        {
+            hiddenObject1.enabled = false;
+        }
+
+        if (trigger.tag == "showToggleObject2")
+        {
+            hiddenObject2.enabled = false;
+        }*/
+    }
+
+    void Update()
+    {
+        Debug.Log("flashLightActive");
+    }
 
 }

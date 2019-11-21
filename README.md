@@ -55,13 +55,12 @@ o Skript für Helligkeit erstellen
 
 # Issues
 
-Teleportation didn't work because of the haptic feedback was deleted in the Steam VR Input Settings.
-
+Teleportation funktionierte nach löschen des haptischen feedbacks nicht mehr.
 
 # Resources
 
-Symbols for the second Puzzle were created by freepik - www.freepik.com
+Symbole für das zweite Rätsel - www.freepik.com
 
 3D Assets - www.free3d.com and www.turbosquid.com
 
-Textures - www.3dtextures.me
+Texturen - www.3dtextures.me
